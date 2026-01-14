@@ -1,4 +1,4 @@
-"# About
+# About
 This repository is to update all the terraform related concepts and practicals. The information is rewuired to secure the hashicorp terraform certification
 
 # Terraform-Projects
